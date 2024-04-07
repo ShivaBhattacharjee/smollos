@@ -1,0 +1,1 @@
+qemu-system-x86_64  -fda build/smoll-os.img
